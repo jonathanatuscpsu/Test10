@@ -4,6 +4,7 @@ Zhaohu(Jonathan) Fan
 
 
 
+#Activity 1: Stocks & Dividends
 ### Getting Price Data
 
 

@@ -19,6 +19,7 @@ library(knitr)
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 
 ```
+#Activity 1: Stocks & Dividends
 ### Getting Price Data
 
 ```{r}
